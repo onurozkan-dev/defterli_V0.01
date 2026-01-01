@@ -145,3 +145,5 @@ Production build için:
 npm run build
 npm start
 ```
+
+Proje henüz tamamlanmamıştır. Hatalar oluşabilir.
